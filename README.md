@@ -153,7 +153,7 @@ For AI development, I use
 - **PyTorch** for developing, researching and training models,
 - **ONNX** for exporting trained models,
 - **ONNX Runtime** for inference of exported models,
-- **Facebook's Hydra** for configuration of models' parameters,
+- **Facebook's Hydra** for configuring different aspects of models and their training,
 - **Optuna** for hyperparameter optimization,
 - **matplotlib** for data plotting and visualizing,
 - and currently studying **Google's JAX** framework.
