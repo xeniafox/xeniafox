@@ -1,6 +1,6 @@
 <div align="center">
   <div><img style="width: 15%" src="https://github.com/xeniafox/xeniafox/blob/main/pngwing.com.png?raw=true" /></div>
-  <p>Hello! I'm <b>Lavínia Oliveira</b>,<br>a 18yo silly ethical hacker and software<br>developer who's currently looking for a job.<br>I'm also interested in singing voice research.</p>
+  <p>Hello! I'm <b>Lavínia Oliveira</b>,<br>a 18yo silly ethical hacker and software<br>developer who's also interested in singing voice research.</p>
 </div>
 
 ```
