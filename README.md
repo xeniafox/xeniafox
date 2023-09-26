@@ -1,12 +1,12 @@
+![Banner](https://github.com/xeniafox/xeniafox/blob/main/banner.png?raw=true)
 <div align="center">
-  <div><img style="width: 15%" src="https://github.com/xeniafox/xeniafox/blob/main/pngwing.com.png?raw=true" /></div>
-  <p>Hello! I'm <b>Lavínia Oliveira</b>,<br>a 18yo silly ethical hacker and software<br>developer who's also interested in singing voice research.</p>
+  <p>Hello! I'm <b>Lavínia Oliveira</b>,<br>a 19yo silly ethical hacker and software<br>developer who's also interested in singing voice research.</p>
 </div>
 
 ```
 Email: xenia@meowers.dev
 Twitter: @yorukitsune3
-Blog: xenia.meowers.dev
+Blogs: xenia.meowers.dev | sillycatluna.meowers.dev
 Donation page: ko-fi.com/xeniatales
 ```
 
