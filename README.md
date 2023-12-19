@@ -4,9 +4,9 @@
 </div>
 
 ```
-Email: xenia@meowers.dev
+Email: xenia@kernel32.xyz
 Twitter: @yorukitsune3
-Blogs: xenia.meowers.dev | sillycatluna.meowers.dev
+Blog: kernel32.xyz
 Donation page: ko-fi.com/xeniatales
 ```
 
